@@ -259,3 +259,9 @@ async def handle_survey(request: SurveyRequest, db: Session = Depends(get_db)):
 def get_user_progress(session_id: str) -> int:
     # Implement actual progress tracking (redis/database)
     return 1  # Simplified example
+
+import uvicorn
+
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 10000))
+    uvicorn.run("main:app", host="0.0.0.0", port=port)
