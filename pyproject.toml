@@ -3,7 +3,6 @@ name = "crypto-chatbot"
 version = "0.1.0"
 description = "A FastAPI-based platform for GenAI-powered cryptocurrency analysis, providing real-time chat, price history, news summaries, and technical insights, with a modern Streamlit frontend and robust, reproducible dependency management using Poetry."
 authors = ["Derrick Tan"]
-package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.10"
