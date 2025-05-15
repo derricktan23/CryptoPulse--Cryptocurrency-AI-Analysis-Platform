@@ -2,8 +2,6 @@
 
 Analyze cryptocurrency trends, news, and insights powered by GenAI.
 
-![Screenshot](https://pplx-res.cloudinary.com/image/private/user_uploads/56041373/dVwaoonRZlkXLxX/image.jpg)
-
 ---
 
 ## Features
