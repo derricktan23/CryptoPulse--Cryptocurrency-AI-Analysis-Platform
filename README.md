@@ -22,7 +22,6 @@ Analyze cryptocurrency trends, news, and insights powered by GenAI.
 git clone https://github.com/yourusername/crypto-ai-platform.git
 cd crypto-ai-platform
 
-text
 
 ### 2. Set Up Environment Variables
 
@@ -32,7 +31,6 @@ GEMINI_API_KEY=your_gemini_api_key
 EXA_API_KEY=your_exa_api_key
 ALPHA_VANTAGE_KEY=your_alphavantage_key
 
-text
 
 ### 3. Install Dependencies
 
